@@ -20,7 +20,7 @@ jobs:
           prWoLabels: true
           unreleased: true
           simpleList: true
-          addSections: '{"documentation":{"prefix":"**Documentation:**","labels":["documentation"]}}'
+          # addSections: '{"documentation":{"prefix":"**Documentation:**","labels":["documentation"]}}'
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Changelog for PR
