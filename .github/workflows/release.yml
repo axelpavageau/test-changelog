@@ -19,13 +19,14 @@ jobs:
           pullRequests: true
           prWoLabels: true
           unreleased: true
+          unreleasedLabel: WIP
           simpleList: true
-          output: CHANGELOG2.md
+          output: CHANGELOG.md
           # addSections: '{"documentation":{"prefix":"**Documentation:**","labels":["documentation"]}}'
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Changelog for PR
-          file_pattern: CHANGELOG2.md
+          file_pattern: CHANGELOG.md
 
   # changelog:
   #   name: Update Changelog
