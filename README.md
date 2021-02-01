@@ -3,3 +3,4 @@
 I changed something
 foo
 bar
+foobar
