@@ -6,3 +6,4 @@ bar
 foobar
 foobaaar
 3
+6
