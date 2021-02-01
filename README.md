@@ -2,3 +2,4 @@
 
 I changed something
 foo
+bar
