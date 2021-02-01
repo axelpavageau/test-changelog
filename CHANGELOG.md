@@ -1,6 +1,8 @@
 # Changelog
 
-## Unreleased
+## [0.0.4](https://github.com/axelpavageau/test-changelog/tree/0.0.4) (2021-02-01)
+
+## [0.0.3](https://github.com/axelpavageau/test-changelog/tree/0.0.3) (2021-02-01)
 
 ## [0.0.3-rc](https://github.com/axelpavageau/test-changelog/tree/0.0.3-rc) (2021-02-01)
 
