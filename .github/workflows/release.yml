@@ -20,7 +20,7 @@ jobs:
           prWoLabels: true
           unreleased: true
           simpleList: true
-          output: CHANGELOG.md
+          output: CHANGELOG2.md
           # addSections: '{"documentation":{"prefix":"**Documentation:**","labels":["documentation"]}}'
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
