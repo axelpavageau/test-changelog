@@ -5,3 +5,4 @@ foo
 bar
 foobar
 foobaaar
+3
